@@ -1,0 +1,25 @@
+Vérification rapide EWS (gratuite) / EWS Quick Check (free) — VERSION 0.1.0-beta
+Licence d'utilisation / End-user licence
+(c) 2026 Rigoutech inc., Montréal (Québec).
+
+FR
+0. Version bêta. Cette version a été testée avec des données fictives et des commandes Exchange simulées
+   (16 tests automatisés réussis). Elle n'a pas encore été testée sur un vrai locataire Microsoft 365. Des erreurs
+   d'exécution sont possibles ; dans ce cas, le script s'arrête sans rien modifier.
+1. Gratuit. Utilisation libre, y compris pour les locataires de vos clients. Redistribution permise sans modification, avec cette licence.
+2. Le script lit deux paramètres ; il ne modifie pas le locataire. Toute modification
+   (par ex. Set-OrganizationConfig) est décidée et faite par l'administrateur de l'utilisateur, sous sa seule responsabilité.
+3. Fourni « tel quel », sans garantie. Information générale ; ce n'est ni un avis juridique ni une garantie de
+   continuité de service. Les dates et règles de Microsoft peuvent changer.
+4. Aucune responsabilité de Rigoutech inc. pour cet outil gratuit, dans la mesure permise par la loi.
+
+EN
+0. Beta version. This version was tested with fictional data and mocked Exchange cmdlets (16 automated
+   tests passed). It has not yet been tested against a real Microsoft 365 tenant. Runtime errors are possible; if one
+   occurs, the script stops without changing anything.
+1. Free. You may use it, including on your clients' tenants. Redistribution is allowed unmodified, with this licence.
+2. The script reads two settings; it does not change the tenant. Any change (e.g. Set-OrganizationConfig)
+   is decided and made by the user's administrator, at the user's sole responsibility.
+3. Provided "as is", without warranty. General information; not legal advice nor a guarantee of service continuity.
+   Microsoft dates and rules may change.
+4. No liability for Rigoutech inc. for this free tool, to the extent permitted by law.
